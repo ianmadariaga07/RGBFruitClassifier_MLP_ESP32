@@ -95,3 +95,5 @@ El sistema opera bajo una arquitectura de integración Cliente-Servidor distribu
 
 #### ZANAHORIA
 ![Foto deteccion de zanahoria](img/zanahoria.png)
+
+Desarrollado como Proyecto Final para la asignatura de Diseño y Análisis de Algoritmos - FES Aragón, UNAM.
